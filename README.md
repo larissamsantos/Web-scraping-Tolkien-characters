@@ -1,0 +1,3 @@
+# Web-scraping Tolkien characters project
+
+<p>This project was based on <a href="https://www.youtube.com/watch?v=RuNolAh_4bU">this</a> video and I really recommend <a href="https://www.youtube.com/c/Thuvu5/featured">Thu Vu data analytics channel</a>! Its goal is to get info about Tolkien characters using data scrapped from the <a href="https://lotr.fandom.com/wiki/Category:Characters">wiki</a>. The desired output of this project is a datasheet with the characters' names and categories that apply to them.</p>
